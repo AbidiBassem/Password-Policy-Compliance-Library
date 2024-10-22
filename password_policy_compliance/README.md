@@ -74,7 +74,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-Bassem Abidi (abidi.bassem@me.com)
+Bassem Abidi 
 
 ## License
 
